@@ -1,0 +1,58 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.college1{
+    background-color:rgb(0, 0, 0);
+    color: white;
+    padding: 40px;
+    text-align: center;
+
+}
+.collegetext{
+    word-spacing: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25;
+    margin-top: 20px;
+    padding: 50px;
+  
+}
+body{
+    border-color: gray;
+    border-width: 5px;
+    border-style: solid;
+    
+}
+b{
+    padding-left: 30px;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    background-color:gray ;
+    
+  }
+  .titlebar{
+    color: white;
+    text-align: center;
+  }
+  .container{
+    margin-top: 50px;
+    padding: 50px;
+      flex-wrap: wrap;
+      justify-content: center;
+     display: inline;
+
+      
+  }
+  
+    
+  
+  div:hover{
+    background-color: black;
+  }
